@@ -12,18 +12,18 @@ Created Common Table Expressions (CTEs) and Temporary Tables
 Implemented Window Functions for cumulative calculations
 Performed joins between COVID deaths and vaccination datasets
 SQL Concepts Used
-SELECT
-WHERE
-GROUP BY
-ORDER BY
-Aggregate Functions
-CASE Statements
-JOINS
-CTEs
-Temporary Tables
-Window Functions
-CAST()
-Views
+>SELECT
+>WHERE
+>GROUP BY
+>ORDER BY
+>Aggregate Functions
+>CASE Statements
+>JOINS
+>CTEs
+>Temporary Tables
+.Window Functions
+>CAST()
+>Views
 Tools
-MySQL
-MySQL Workbench
+>MySQL
+>MySQL Workbench
