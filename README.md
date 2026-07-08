@@ -1,8 +1,8 @@
 # PortfolioProjectofSQL
 Explored the COVID-19 dataset using MySQL to analyze infection rates, death percentages, vaccination progress, and global trends through SQL queries, joins, CTEs, window functions, temporary tables, and aggregate functions.
-COVID-19 Data Exploration using MySQL
+####COVID-19 Data Exploration using MySQL
 This project focuses on exploring and analyzing the Our World in Data COVID-19 dataset using MySQL. The goal is to extract meaningful insights through SQL queries and demonstrate proficiency in data analysis techniques.
-Key Analysis Performed
+#Key Analysis Performed
 Analyzed total cases, deaths, and death percentage by country
 Calculated infection rate compared to population
 Identified countries and continents with the highest infection and death counts
